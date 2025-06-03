@@ -8,17 +8,26 @@ During the project the focus changed, I was now to create visuals which would id
 
 **ETL & Data Preparation**
 Using **Power Query**, I built a robust ETL process to:
+
 1 - Clean and transform the data extracted by the AI Model
+
 2 - Handle inconsistencies in formatting 
+
 3 - Ensure accuracy and reliability across all carrier datasets
 
 **Design Principles**
 I followed key dashboard design principles to ensure clarity and usability:
+
 1 - Minimalist layout: Focused on essential metrics to avoid overwhelming users
+
 2 - Bookmark navigation: I used Power BI's bookmark feature to create an interactive experiece, allowing users to switch between carriers and fees without cluttering the interface
+
 3 - Consistent formatting: Applied uniform colour schemes, fonts and filters to maintain a professional and cohesive appearance.
 
 **Key Features**
+
 1 - Invoice Summary View: Displays high-level metrics such as total invoice value, invoice period and a carrier breakdown. 
+
 2 - Surcharge Analysis: A dedicated page for exploring surcharge trends and anomolies.
+
 3 - Comparison Metrics: Enables users to compare invoices against expected internal figures using the generated invoice period. 
