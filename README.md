@@ -1,4 +1,4 @@
-AI Model: Microsoft AI Builder Invoice Data Extraction
+**AI Model: Microsoft AI Builder Invoice Data Extraction**
 
 I had previously never used the AI Builder but was aware of it's abilities through experimenting with Power Apps. I took this opportunity to integrate a personal interest with a professional project. 
 
