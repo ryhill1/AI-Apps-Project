@@ -5,11 +5,17 @@ To transform the AI Model into a fully automated process, I designed a Power Aut
 The automate is triggered by the user uploading an Invoice to a designated SharePoint folder via Microsoft Teams. This approach was chosen over creating a Power Apps upload form to reduce development time and simplify the user experience, another additional benefit from using Teams was the ability to extract user data. 
 
 Once triggered, the flow:
+
 1 - Calls the AI Builder Model
+
 2 - Routes the data (based on carrier using conditional logic*)
+
 3 - Appends the extracted data to Excel tables
+
 3.1 - Generates a record the first and last dates† 
+
 4 - Generates a summary of key invoice details
+
 5 - Notifies user of process completion
 
 **Design Considerations**
