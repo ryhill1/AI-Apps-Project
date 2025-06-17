@@ -1,3 +1,5 @@
+***Please read the branches to understand the process.***
+
 This project was developed to automate a manual invoice processing workflow involving four carriers, each with unique invoice formats. 
 The original process was time-consuming and prone to error, requiring manual review and complaint handling.
 
@@ -7,4 +9,4 @@ The system includes SharePoint integration, Excel-based data storage, and a user
 
 The project prioritises simplicity, efficiency, and accessibility, ensuring that even team members with limited technical experience can use it effectively. 
 This repository documents the full development process, including automation logic, data handling, and dashboard design.
-***Please read the branches to understand the process.***
+
